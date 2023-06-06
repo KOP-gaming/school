@@ -2,7 +2,7 @@
 ## Waardoor starte de revoluties
 ### Verlichtingsideeën
 - De leider dient het volk, niet andersom
-- Sociale klasse nzijn verzonnen door mensen, god heeft iedereen gelijk gemaakt
+- Sociale klassen zijn verzonnen door mensen, god heeft iedereen gelijk gemaakt
 - Er dient een scheiding der machten te zijn
 **Scheiding der machten**
 een scheiding der machte nbetekent dat de staat niet de wetten maakt, handhaafd en straffen oplegt aan wetovertreders.
