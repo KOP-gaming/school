@@ -1,0 +1,21 @@
+macro HTMLOutputFile{"../album.html"}
+include "htmlgen.coly"
+include "macro.coly"
+
+initHTML
+
+"html" tag
+"body" tag
+    "Depiction engagement"hb
+    br
+    "Tell me why"hs
+    "When we got the assignment we immediatly got attracted to assignment D because we both realy like music and we could already think of a bunch of albums we could try and do."p
+    br
+    "Who The F*** Are Arctic Monkeys?"hs
+    "The first album we did was the album Who The F*** Are Arctic Monkeys? This album features a blackboard with the text Who  the fuck are Arctic Monkeys on the right and some random scribbles on the left, the album cover also features the reflection of the flashlight of a phone somewhere near the middle"p
+    "the real cover"b
+    "picsoritdidnothappen/ckv/Whothefarearcticmonkeyspromo.jpg"img
+    br
+    "our cover"b
+"body" cTag
+"html" cTag

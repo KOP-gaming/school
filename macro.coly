@@ -12,6 +12,12 @@ macro hb {
     pushHTML
   "h1" cTag "b" cTag
 }
+//smaller header
+macro hs {
+    "b" tag "h2" tag
+    pushHTML
+    "h1"cTag "b" cTag
+}
 //button
 macro button {
     "button" tag
