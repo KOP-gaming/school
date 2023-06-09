@@ -1,4 +1,4 @@
 echo off
 git add .
-git commit -m "automated unnamed update"
+git commit -m "file dumptruck"
 git push
