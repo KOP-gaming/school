@@ -1,4 +1,4 @@
 echo off
 git add .
-git commit -m "file dumptruck"
+git commit -m "english"
 git push

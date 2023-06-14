@@ -1,0 +1,44 @@
+lineare vergelijkingen
+x + 4 = 20
+x = 20 - 4
+x = 16
+-------------
+4x = 20
+x = 20/4
+x = 5
+-------------
+1/4x = 20
+x = 20 * 4
+x = 80
+
+--------------------------------------------------------------------------------------------------
+
+snijpunten berekenen
+2 lijnformules
+y = -2x + 5
+y = 2x + 6
+opschrijven als 1:
+2x + 6 = -2x + 5
+2x + 2x = -6 + 5
+4x = -1
+x = -1/4
+x = -0,25
+x in 1 formule
+2 * -0,25 + 6 = y
+-0,5 + 6 = y
+5,5 = y
+snijpunt is (-0,25 . 5,5)
+
+--------------------------------------------------------------------------------------------------
+
+interpoleren, extrapoleren en evenredigheid
+iterpoleren = een waarde berekenen die binnen je tabel ligt
+1 | 2 | ? | 4 |
+2 | 3 | ? | 5 |  
+extrapoleren
+een waarde berekenen die buiten je tabel ligt
+1 | 2 | 3 | 4 | 8
+2 | 3 | 4 | 5 | ?
+
+dit kan alleen als de tabel in gelijke stappen omhoog gaat aka evenredig is
+--------------------------------------------------------------------------------------------------
